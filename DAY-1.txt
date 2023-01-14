@@ -1,0 +1,33 @@
+HTTP1.1 -->
+
+Security is low.                                               
+Sending speed of data is slow.
+It take much time.
+It can't use binary format.
+It can't load resources at same time load one by one if one is not loaded then all blocked.
+
+
+
+HTTP2-->
+
+Security is higher as compare to HTTP1.1.
+Sending speed of data is high.
+Take less time.
+It uses binary format.
+It is able to use single TCP connection no resource blocked any resource.
+
+
+
+
+About Objects And Its Internal Representation In Javascript-->
+
+In Javascript, Objects are Important data types, these are different than simple primitive 
+datatypes which contains one value but object can hold many values in the form of keys.these
+ keys contains more values.we can add on this as you want.in the keys of object we can put
+  number,string,boolean,undefined,null like that profit to find easily anything by output 
+  once we add data.nowadays companies use same method to save data.
+
+
+
+
+
